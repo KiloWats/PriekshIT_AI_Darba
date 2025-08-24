@@ -61,7 +61,7 @@ Augšupielādes uzvedne
 ---
 
 Arhitektūra Diagramma :
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/59ea0805-8bbe-49f6-b8ae-2470bf29d0b7" />
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/59ea0805-8bbe-49f6-b8ae-2470bf29d0b7" />
 
 
 
