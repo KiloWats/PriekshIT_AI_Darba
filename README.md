@@ -28,3 +28,17 @@ AI darbināta lietotne, kas automātiski ģenerē aprakstošus parakstus augšup
 5. Palaid pārējās šūnas un seko ekrānā redzamajiem norādījumiem, lai augšupielādētu attēlu.
 
 6. Ģenerētais paraksts tiks parādīts zem attēla priekšskatījuma.
+
+
+
+
+| Library           | Purpose                              |
+| ----------------- | ------------------------------------ |
+| `transformers`    | Hugging Face model & processor       |
+| `torch`           | Model inference and GPU acceleration |
+| `pillow`          | Image processing in Python           |
+| `google.colab`    | File upload interface in notebooks   |
+| `IPython.display` | Displaying images inline             |
+
+
+
