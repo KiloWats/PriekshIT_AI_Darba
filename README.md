@@ -71,8 +71,27 @@ Arhitektūra Diagramma :
 <img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/59ea0805-8bbe-49f6-b8ae-2470bf29d0b7" />
 
 
+---
 
 
+##  Idejas turpmākajiem atjauninājumiem :
 
+🔤 Daudzvalodu paraksti
+Tulkojiet parakstus vairākās valodās, izmantojot tulkošanas API.
+
+📁 Attēlu partijas apstrāde
+Ļauj lietotājiem augšupielādēt vairākus attēlus un apstrādāt tos secīgi.
+
+🎯 Modeļa jaunināšana
+Jauniniet uz blip2-opt-2.7b vai integrējiet uz CLIP/VIT balstītus modeļus, lai uzlabotu precizitāti.
+
+📊 Parakstu ticamības rādītājs
+Parādiet ticamības rādītājus vai attēla fokusa siltuma kartes.
+
+🧠 Pielāgotu datu precizēšana
+Pārkvalificējiet vai precizējiet modeli konkrētai jomai specifiskās datu kopās (piemēram, medicīnā, modē).
+
+🌐 Izvietošana tīmeklī ar Streamlit
+Pielāgojiet piezīmju grāmatiņu tīmekļa lietotnei, izmantojot Streamlit vai Gradio.
 
 
